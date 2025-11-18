@@ -1,5 +1,5 @@
 <h1 align="left" style="display:flex; align-items:center; gap:15px;">
-  <img src="./akura.jpg" height="70" />
+  <img src="https://i.ibb.co/qF1f6xTK/akura.jpg" alt="akura-logo" height="70">
   Project Akura
 </h1>
 
