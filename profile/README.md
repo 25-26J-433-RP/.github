@@ -19,7 +19,7 @@ OCR Service                - https://github.com/25-26J-433-RP/sinhala-ocr-servic
 
 Dyslexic Pattern Training  - https://github.com/25-26J-433-RP/dyslexic-pattern-training
 
-AI Recorrection Workbench  - https://github.com/25-26J-433-RP/ai-recorrection-workbench
+AI Recorrection Workbench AND Model Training - https://github.com/25-26J-433-RP/ai-recorrection-workbench
 						   
 Scoring Engine			   - https://github.com/25-26J-433-RP/bias-aware-scoring-engine
 
